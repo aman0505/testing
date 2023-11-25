@@ -5,8 +5,4 @@ asdkfjaskldjsdlfm
 
 
 jdnfkdsfojasdlkfjlaskj
-
-changes check on staging state to previos commit state  s
-sdfsadfsad
-
-checking ammend command 
+checking git messages
