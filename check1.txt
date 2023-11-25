@@ -8,3 +8,5 @@ this is branch
 
 checking git rflog 
 
+
+check marging conflict 
