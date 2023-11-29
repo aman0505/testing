@@ -1,6 +1,4 @@
-checking marging conflict with margingh bracnh in local 
-changes 
-sdfmsdklm
-changed this is 
-
-
+Protect this branch from
+ force pushing or deletion, 
+ or require
+ status checks before merging
