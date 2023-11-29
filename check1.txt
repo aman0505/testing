@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 checking the pull request 
+=======
+Protect this branch from
+ force pushing or deletion, 
+ or require
+ status checks before merging
+>>>>>>> devlop
